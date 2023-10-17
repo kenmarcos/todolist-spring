@@ -10,6 +10,9 @@
         <a href="#%EF%B8%8F-tecnologias">Tecnologias</a> •
         <a href="#-autor">Autor</a>
     </p>
+    <p align="center">
+        <img alt="home page Board" src=".github/rocketseat_java.png" width=800/>
+    </p>
 </div>
 
 <!-- SOBRE O PROJETO -->
