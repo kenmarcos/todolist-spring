@@ -41,7 +41,7 @@ Através dessa aplicação, um usuário pode se cadastrar no sistema, criar tare
 
 > Para utilizar a aplicação, é necessário o uso de uma API Client, como [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/download).
 
-Verifique a [documentação](https://kenmarcos.github.io/users-crud/) da API.
+Verifique a [documentação](https://kenmarcos.github.io/todolist-spring/) da API.
 
 <!-- TECNOLOGIAS -->
 
