@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.kenmarcos</groupId>
 	<artifactId>todolist-spring</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>todolist-spring</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
